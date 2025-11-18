@@ -1,6 +1,6 @@
 # Niche Adaptation of Staphylococcus epidermidis in the Healthy Female Microbiota
 
-This is code related to the paper: "Strain-Level Genomic Analysis Reveals Cross-Site Colonization and Niche Adaptation of Staphylococcus epidermidis in the Healthy Female Microbiota" conducted in the work of Sandra Jablonska, Niru Shanbhag, Alex Kula, and Catherine Putonti
+This is code is related to the paper: "Strain-Level Genomic Analysis Reveals Cross-Site Colonization and Niche Adaptation of Staphylococcus epidermidis in the Healthy Female Microbiota" conducted in the work of Sandra Jablonska, Niru Shanbhag, Alex Kula, and Catherine Putonti
 
 ## Abstract
 
@@ -22,10 +22,10 @@ This repo includes two scripts to generate 1) multinomial logistic regression ma
   
 ## Authors
 
-Contributors names and contact info
+Code contributors names 
 
-Sandra Jablonska
-Niru Shanbhag
+Sandra Jablonska (R code) - inquiries can be made at: 
+Niru Shanbhag (Python code) - inquiries can be made at: shanbhagn123@gmail.com
 
 ## Acknowledgments
 Thank you to SJ, who spent 2 years generating all this lovely data :) 
