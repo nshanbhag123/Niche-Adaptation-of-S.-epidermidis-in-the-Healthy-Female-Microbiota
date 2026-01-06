@@ -1,5 +1,5 @@
-# Strain-Level Genomic Analysis of Staphylococcus epidermidis Across Multiple Body Sites in Healthy Females
-This is code is related to the paper: "Strain-Level Genomic Analysis Reveals Cross-Site Colonization and Niche Adaptation of Staphylococcus epidermidis in the Healthy Female Microbiota" conducted in the work of Sandra Jablonska, Niru Shanbhag, Alex Kula, and Catherine Putonti
+# About
+This is code is related to the paper: "Strain-Level Genomic Analysis of Staphylococcus epidermidis Across Multiple Body Sites in Healthy Females" conducted in the work of Sandra Jablonska, Niru Shanbhag, Alex Kula, and Catherine Putonti
 
 ## Code Details
 This repo includes two scripts to generate 1) multinomial logistic regression machine learning model to identify gene clusters associated with specific niches in S. epidermidis 2) PcoA plot generated using a COG presence/absence table of the S. epi accessory genome
